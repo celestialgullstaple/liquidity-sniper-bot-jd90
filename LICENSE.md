@@ -1,4 +1,4 @@
-# 
+# advanced Scanner for liquidity sniper bot | token-launch-monitoring & price-impact-analysis is the best liquidity sniper bot, featuring token-launch-monitoring and
 
 
 
